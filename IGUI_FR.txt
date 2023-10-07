@@ -1,0 +1,12 @@
+IGUI_FR = {
+	IGUI_IHM_use_modal = "Utiliser la boîte de dialogue modale",
+	IGUI_IHM_use_modal_tooltip = "Remplace le menu en ligne par une fenêtre contextuelle. Cela peut également être utile pour les moniteurs basse résolution.",
+	IGUI_IHM_avatar_size = "Taille de l'avatar",
+	IGUI_IHM_avatar_size_tooltip = "Taille en pixels de chaque élément du menu.",
+	IGUI_IHM_hair_rows = "Lignes de menu Cheveux",
+	IGUI_IHM_hair_cols = "Colonnes de menu Cheveux",
+	IGUI_IHM_beard_rows = "Lignes de menu Barbe",
+	IGUI_IHM_beard_cols = "Colonnes de menu Barbe",
+	IGUI_IHM_modal_rows = "Lignes de dialogue modale",
+	IGUI_IHM_modal_cols = "Colonnes de dialogue modale",
+}
